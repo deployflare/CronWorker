@@ -1,0 +1,16 @@
+{
+  "name": "blank",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "deploy": "wrangler deploy",
+    "dev": "wrangler dev",
+    "start": "wrangler dev"
+  },
+  "dependencies": {
+    "mimetext": "^3.0.16"
+  },
+  "devDependencies": {
+    "wrangler": "4.16.*"
+  }
+}
